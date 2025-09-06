@@ -1,4 +1,4 @@
-## Desafio-DIO---Santander-Code-Girls---StepFunction
+## Desafio DIO - Step Function
 
 Step Function
 No console, acesse o Step Function e cliquem no botão Get Started
